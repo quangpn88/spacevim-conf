@@ -47,3 +47,6 @@ name = "VersionControl"
 
 [[layers]]
 name = "git"
+
+[[layers]]
+name = "fzf"
